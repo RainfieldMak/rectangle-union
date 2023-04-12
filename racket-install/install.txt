@@ -1,0 +1,2 @@
+sudo add-apt-repository ppa:plt/racketsudo 
+apt-get install racket
